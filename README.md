@@ -1,2 +1,2 @@
 # Background-Removal
-Here I using OpenCV
+Here I use cvzone package and SelfiSegmentationModule.
